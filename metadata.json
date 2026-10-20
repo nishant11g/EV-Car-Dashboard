@@ -1,0 +1,6 @@
+{
+  "name": "Ishmin Motors EV Cockpit - Dual-Display IVI & Cluster",
+  "description": "Android 14/15 Automotive EV Cockpit featuring decoupled Digital Instrument Cluster, In-Vehicle Infotainment, virtual display emulation, real-time CAN bus telemetry, and AIS-071 telltales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
